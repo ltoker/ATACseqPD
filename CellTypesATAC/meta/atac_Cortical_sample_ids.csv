@@ -1,0 +1,11 @@
+SampleID	Rep1	Rep2	CellType	BrainRegion
+SRR5367709	/media/gni042/data-usb/fullard_2018/fastqfiles/SRR5367709_1.fastq.gz	/media/gni042/data-usb/fullard_2018/fastqfiles/SRR5367709_2.fastq.gz	Non_Neuronal	dorsolateral_prefrontal_cortex
+SRR5367720	/media/gni042/data-usb/fullard_2018/fastqfiles/SRR5367720_1.fastq.gz	/media/gni042/data-usb/fullard_2018/fastqfiles/SRR5367720_2.fastq.gz	Neuronal	dorsolateral_prefrontal_cortex
+SRR5367732	/media/gni042/data-usb/fullard_2018/fastqfiles/SRR5367732_1.fastq.gz	/media/gni042/data-usb/fullard_2018/fastqfiles/SRR5367732_2.fastq.gz	Non_Neuronal	dorsolateral_prefrontal_cortex
+SRR5367744	/media/gni042/data-usb/fullard_2018/fastqfiles/SRR5367744_1.fastq.gz	/media/gni042/data-usb/fullard_2018/fastqfiles/SRR5367744_2.fastq.gz	Neuronal	dorsolateral_prefrontal_cortex
+SRR5367756	/media/gni042/data-usb/fullard_2018/fastqfiles/SRR5367756_1.fastq.gz	/media/gni042/data-usb/fullard_2018/fastqfiles/SRR5367756_2.fastq.gz	Non_Neuronal	dorsolateral_prefrontal_cortex
+SRR5367768	/media/gni042/data-usb/fullard_2018/fastqfiles/SRR5367768_1.fastq.gz	/media/gni042/data-usb/fullard_2018/fastqfiles/SRR5367768_2.fastq.gz	Neuronal	dorsolateral_prefrontal_cortex
+SRR5367780	/media/gni042/data-usb/fullard_2018/fastqfiles/SRR5367780_1.fastq.gz	/media/gni042/data-usb/fullard_2018/fastqfiles/SRR5367780_2.fastq.gz	Non_Neuronal	dorsolateral_prefrontal_cortex
+SRR5367791	/media/gni042/data-usb/fullard_2018/fastqfiles/SRR5367791_1.fastq.gz	/media/gni042/data-usb/fullard_2018/fastqfiles/SRR5367791_2.fastq.gz	Neuronal	dorsolateral_prefrontal_cortex
+SRR5367801	/media/gni042/data-usb/fullard_2018/fastqfiles/SRR5367801_1.fastq.gz	/media/gni042/data-usb/fullard_2018/fastqfiles/SRR5367801_2.fastq.gz	Non_Neuronal	dorsolateral_prefrontal_cortex
+SRR5367814	/media/gni042/data-usb/fullard_2018/fastqfiles/SRR5367814_1.fastq.gz	/media/gni042/data-usb/fullard_2018/fastqfiles/SRR5367814_2.fastq.gz	Neuronal	dorsolateral_prefrontal_cortex
